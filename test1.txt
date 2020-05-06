@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9ED6-D9A2
+
+ Directory of C:\Users\Santosh\Desktop\GIT\MyFolder
+
+06/05/2020  05:17 PM    <DIR>          .
+06/05/2020  05:17 PM    <DIR>          ..
+06/05/2020  12:48 PM               411 index.html
+06/05/2020  12:36 PM               360 test.txt
+06/05/2020  05:17 PM                 0 test1.txt
+               3 File(s)            771 bytes
+               2 Dir(s)  11,677,184,000 bytes free
